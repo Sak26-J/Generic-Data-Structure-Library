@@ -1,0 +1,11 @@
+Code Implementation and Compilation Instructions
+Below is the complete implementation of generic data structures including Singly Linked List, Doubly Linked List, Circular Linked Lists, Stack, and Queue in C++.
+
+// C++ Code Starts Here
+How to Compile and Run
+For Windows (using g++):
+g++ -o dsa_program your_file_name.cpp
+dsa_program
+For Linux/macOS (using g++):
+g++ -o dsa_program your_file_name.cpp
+./dsa_program
